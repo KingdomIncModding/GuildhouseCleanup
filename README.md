@@ -1,6 +1,6 @@
 # Guild House & Armory Cleanup 1.1.0
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6V62AX30M)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/urakkaamyx/tip)
 
 [Nexus Mods](https://www.nexusmods.com/kingdominc/mods/17) | [GitHub releases](https://github.com/KingdomIncModding/GuildhouseCleanup/releases)
 
@@ -35,4 +35,4 @@ Author: Urakka / rockyamyx. Plugin ID: `urakka.kingdominc.guildhousecleanup`. As
 
 If you enjoy these Kingdom Inc mods and tools, consider supporting development on Ko-fi!
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6V62AX30M)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/urakkaamyx/tip)
